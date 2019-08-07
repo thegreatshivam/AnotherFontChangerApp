@@ -1,6 +1,6 @@
 # AnotherFontChangerApp
 
-Download the FontChanger.exe file and check this app out.
+Download the AnotherFontChanger.exe file and check this app out.
 
 You can also see the source code of this app.
 
