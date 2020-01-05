@@ -10,4 +10,4 @@ So definitely check it out.
 
 Here is the preview:
 
-![alt text](https://raw.githubusercontent.com/thegreatshivam/AnotherFontChangerApp/master/preview.jpg)
+![alt text](https://i.ibb.co/CVtXfhY/preview.jpg)
